@@ -1,0 +1,48 @@
+{
+  "external": {
+    "urls": [
+      {
+        "url": "https://fonts.googleapis.com/icon?family=Material+Icons"
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Montserrat"
+      }
+    ]
+  },
+  "static.versioned": [
+    "\\.[0-9a-z]{20}\\."
+  ],
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "prefix": false
+      }
+    }
+  },
+  "static": {
+    "urls": {
+      "/polyfills.ce010807daea6abb65d2.bundle.js": "ba62e131463d46a23016b27ea252ded039c47f05",
+      "/main.188391c1e4a949eb72c0.bundle.js": "0e7048288f4824f77c7e1100166ade2e4e8f7120",
+      "/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
+      "/inline.0a3562e14c18bdb99d2a.bundle.js": "a1cf96dae7842803570a6d9b30240e0dd1ec1dcd",
+      "/styles.70d8578fa113d41f739c.bundle.css": "47c5ef7e35b6c43674d521daabda5a4bdc5aec13",
+      "/assets/favicon/.directory": "b3b6af33181c0db1851ec04f9be2b4aaf5c478e3",
+      "/assets/favicon/android-chrome-192x192.png": "b707f955d7c75edca0d9ec2bd5212dd0a15c0303",
+      "/assets/favicon/android-chrome-512x512.png": "f120cc56011dc5a21c4a8aa2dcd86581803b0c3f",
+      "/assets/favicon/apple-touch-icon.png": "8c615908b51ea08d88ae88582647e1eacf6083ec",
+      "/assets/favicon/browserconfig.xml": "974aea18bda5a95802c06b80126ab1d96d91d708",
+      "/assets/favicon/favicon-16x16.png": "a81b6e4da4b28dee7b0c20d0c82a2934a8a62ec1",
+      "/assets/favicon/favicon-32x32.png": "69b868dce9c09002297a2f7accae56ab4ea735fa",
+      "/assets/favicon/manifest.json": "e8fec2b76286ddf07a2498cee0c4743d5310b77e",
+      "/assets/favicon/mstile-150x150.png": "ae812afb97f0e0c75ae692e00b4a56040e2a908b",
+      "/assets/favicon/safari-pinned-tab.svg": "c2af6464e89161b10c3d87810088bc373fd5547f",
+      "/assets/icons/linkedin-box.svg": "d905b689c19db9ea2c99afb0a319cbb0f27b116e",
+      "/assets/images/jmgomes.png": "195a8cac999870e7208b3c19e275f04951d92692",
+      "/assets/favicon/favicon.ico": "d02cf63932fcd560deb1e849a3f97f9988be1d2d",
+      "/manifest.json": "5cf88acf57cae5c1447cee91afa711959384d8fd",
+      "/index.html": "52c57c1780bb6d3e13b90d0e594a23f6dfb8a51c"
+    },
+    "_generatedFromWebpack": true
+  }
+}
